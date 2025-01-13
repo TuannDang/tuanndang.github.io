@@ -3,5 +3,5 @@
 For programming videos click here: 
 ---
 layout: videos
-target: https://tuanndang.github.io/videos.md
+target: https://tuanndang.github.io/videos.html
 ---
